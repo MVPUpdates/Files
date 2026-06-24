@@ -1,1 +1,3 @@
-test
+lib_url:https://abcd.com
+obb_url:https://abcd.com
+last_update:july_24
